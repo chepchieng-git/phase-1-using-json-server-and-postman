@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+    
+    ],
+   "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "**/db.json"
+   ]
+
+}
